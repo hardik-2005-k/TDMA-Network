@@ -187,5 +187,6 @@ emane/
   analyze.py                compares measured vs predicted
 results/                 saved raw output of the three runs
 DOCUMENTATION.md         design process and final values
+presentation.pptx        slide deck for the panel
 requirements.txt         Python dependencies (pinned to the tested versions)
 ```
