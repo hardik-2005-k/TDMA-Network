@@ -1,0 +1,3735 @@
+{
+ "variant": "allslot0",
+ "duration_s": 20.0,
+ "rate_pps": 500.0,
+ "payload_bytes": 100,
+ "node_order": [
+  "Node_01",
+  "Node_02",
+  "Node_03",
+  "Node_04",
+  "Node_05",
+  "Node_06",
+  "Node_07",
+  "Node_08",
+  "Node_09",
+  "Node_10",
+  "Node_11",
+  "Node_12",
+  "Node_13",
+  "Node_14",
+  "Node_15",
+  "Node_16"
+ ],
+ "nem_ids": {
+  "Node_01": 1,
+  "Node_02": 2,
+  "Node_03": 3,
+  "Node_04": 4,
+  "Node_05": 5,
+  "Node_06": 6,
+  "Node_07": 7,
+  "Node_08": 8,
+  "Node_09": 9,
+  "Node_10": 10,
+  "Node_11": 11,
+  "Node_12": 12,
+  "Node_13": 13,
+  "Node_14": 14,
+  "Node_15": 15,
+  "Node_16": 16
+ },
+ "matrix": [
+  [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "links": [
+  [
+   "Node_01",
+   "Node_02"
+  ],
+  [
+   "Node_01",
+   "Node_05"
+  ],
+  [
+   "Node_01",
+   "Node_06"
+  ],
+  [
+   "Node_02",
+   "Node_03"
+  ],
+  [
+   "Node_02",
+   "Node_05"
+  ],
+  [
+   "Node_02",
+   "Node_06"
+  ],
+  [
+   "Node_02",
+   "Node_07"
+  ],
+  [
+   "Node_03",
+   "Node_04"
+  ],
+  [
+   "Node_03",
+   "Node_06"
+  ],
+  [
+   "Node_03",
+   "Node_07"
+  ],
+  [
+   "Node_03",
+   "Node_08"
+  ],
+  [
+   "Node_04",
+   "Node_07"
+  ],
+  [
+   "Node_04",
+   "Node_08"
+  ],
+  [
+   "Node_05",
+   "Node_06"
+  ],
+  [
+   "Node_05",
+   "Node_09"
+  ],
+  [
+   "Node_05",
+   "Node_10"
+  ],
+  [
+   "Node_06",
+   "Node_07"
+  ],
+  [
+   "Node_06",
+   "Node_09"
+  ],
+  [
+   "Node_06",
+   "Node_10"
+  ],
+  [
+   "Node_06",
+   "Node_11"
+  ],
+  [
+   "Node_07",
+   "Node_08"
+  ],
+  [
+   "Node_07",
+   "Node_10"
+  ],
+  [
+   "Node_07",
+   "Node_11"
+  ],
+  [
+   "Node_07",
+   "Node_12"
+  ],
+  [
+   "Node_08",
+   "Node_11"
+  ],
+  [
+   "Node_08",
+   "Node_12"
+  ],
+  [
+   "Node_09",
+   "Node_10"
+  ],
+  [
+   "Node_09",
+   "Node_13"
+  ],
+  [
+   "Node_09",
+   "Node_14"
+  ],
+  [
+   "Node_10",
+   "Node_11"
+  ],
+  [
+   "Node_10",
+   "Node_13"
+  ],
+  [
+   "Node_10",
+   "Node_14"
+  ],
+  [
+   "Node_10",
+   "Node_15"
+  ],
+  [
+   "Node_11",
+   "Node_12"
+  ],
+  [
+   "Node_11",
+   "Node_14"
+  ],
+  [
+   "Node_11",
+   "Node_15"
+  ],
+  [
+   "Node_11",
+   "Node_16"
+  ],
+  [
+   "Node_12",
+   "Node_15"
+  ],
+  [
+   "Node_12",
+   "Node_16"
+  ],
+  [
+   "Node_13",
+   "Node_14"
+  ],
+  [
+   "Node_14",
+   "Node_15"
+  ],
+  [
+   "Node_15",
+   "Node_16"
+  ]
+ ],
+ "installed_schedule": {
+  "1": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "2": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "3": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "4": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "5": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "6": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "7": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "8": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "9": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "10": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "11": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "12": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "13": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "14": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "15": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  },
+  "16": {
+   "accept_full": 1,
+   "tx_slots": [
+    0
+   ]
+  }
+ },
+ "schedule_mismatch": {},
+ "traffic": {
+  "1": {
+   "nem": 1,
+   "sent": 10000,
+   "rx": {}
+  },
+  "2": {
+   "nem": 2,
+   "sent": 10000,
+   "rx": {}
+  },
+  "3": {
+   "nem": 3,
+   "sent": 10000,
+   "rx": {}
+  },
+  "4": {
+   "nem": 4,
+   "sent": 10000,
+   "rx": {}
+  },
+  "5": {
+   "nem": 5,
+   "sent": 10000,
+   "rx": {}
+  },
+  "6": {
+   "nem": 6,
+   "sent": 10000,
+   "rx": {}
+  },
+  "7": {
+   "nem": 7,
+   "sent": 10000,
+   "rx": {}
+  },
+  "8": {
+   "nem": 8,
+   "sent": 10000,
+   "rx": {}
+  },
+  "9": {
+   "nem": 9,
+   "sent": 10000,
+   "rx": {}
+  },
+  "10": {
+   "nem": 10,
+   "sent": 10000,
+   "rx": {}
+  },
+  "11": {
+   "nem": 11,
+   "sent": 10000,
+   "rx": {}
+  },
+  "12": {
+   "nem": 12,
+   "sent": 10000,
+   "rx": {}
+  },
+  "13": {
+   "nem": 13,
+   "sent": 10000,
+   "rx": {}
+  },
+  "14": {
+   "nem": 14,
+   "sent": 10000,
+   "rx": {}
+  },
+  "15": {
+   "nem": 15,
+   "sent": 10000,
+   "rx": {}
+  },
+  "16": {
+   "nem": 16,
+   "sent": 10000,
+   "rx": {}
+  }
+ },
+ "emane": {
+  "1": {
+   "accept": [
+    {
+     "NEM": "1",
+     "Num Bytes Tx": "1420656",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "2",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "5",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3357",
+     "Missed": "4",
+     "Big": "0",
+     ".25": "2373",
+     ".50": "932",
+     ".75": "51",
+     "1.0": "1",
+     "1.25": "3",
+     "1.50": "1",
+     "1.75": "0",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6320",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "628",
+     ".75": "4270",
+     "1.0": "1422",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "332",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "3",
+     "1.25": "261",
+     "1.50": "51",
+     "1.75": "9",
+     ">1.75": "8"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "16",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "16"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "5",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "5"
+    }
+   ]
+  },
+  "2": {
+   "accept": [
+    {
+     "NEM": "2",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "1",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "3",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "5",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3405",
+     "Missed": "1",
+     "Big": "0",
+     ".25": "2408",
+     ".50": "956",
+     ".75": "41",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10576",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1006",
+     ".75": "7129",
+     "1.0": "2441",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "516",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "3",
+     "1.25": "386",
+     "1.50": "96",
+     "1.75": "13",
+     ">1.75": "18"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "18",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "18"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "8",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "8"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "3",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "3"
+    }
+   ]
+  },
+  "3": {
+   "accept": [
+    {
+     "NEM": "3",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "2",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "4",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "8",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3446",
+     "Missed": "3",
+     "Big": "0",
+     ".25": "2437",
+     ".50": "959",
+     ".75": "48",
+     "1.0": "2",
+     "1.25": "1",
+     "1.50": "1",
+     "1.75": "1",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10597",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1023",
+     ".75": "7122",
+     "1.0": "2452",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "495",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "3",
+     "1.25": "366",
+     "1.50": "96",
+     "1.75": "22",
+     ">1.75": "8"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "20",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "20"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    }
+   ]
+  },
+  "4": {
+   "accept": [
+    {
+     "NEM": "4",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "3",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "8",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3491",
+     "Missed": "1",
+     "Big": "0",
+     ".25": "2452",
+     ".50": "997",
+     ".75": "41",
+     "1.0": "1",
+     "1.25": "0",
+     "1.50": "1",
+     "1.75": "0",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6368",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "688",
+     ".75": "4271",
+     "1.0": "1409",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "284",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "1",
+     "1.25": "217",
+     "1.50": "53",
+     "1.75": "8",
+     ">1.75": "5"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "17",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "17"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    }
+   ]
+  },
+  "5": {
+   "accept": [
+    {
+     "NEM": "5",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "1",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "2",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "9",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420656",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3534",
+     "Missed": "2",
+     "Big": "0",
+     ".25": "2491",
+     ".50": "994",
+     ".75": "46",
+     "1.0": "3",
+     "1.25": "0",
+     "1.50": "1",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10590",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1156",
+     ".75": "7163",
+     "1.0": "2271",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "502",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "1",
+     "1.25": "375",
+     "1.50": "90",
+     "1.75": "26",
+     ">1.75": "10"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "17",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "17"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "9",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "9"
+    }
+   ]
+  },
+  "6": {
+   "accept": [
+    {
+     "NEM": "6",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "1",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "2",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "3",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "5",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "9",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3585",
+     "Missed": "2",
+     "Big": "0",
+     ".25": "2505",
+     ".50": "1036",
+     ".75": "44",
+     "1.0": "0",
+     "1.25": "1",
+     "1.50": "0",
+     "1.75": "1",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "16973",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1625",
+     ".75": "11581",
+     "1.0": "3767",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "768",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "5",
+     "1.25": "603",
+     "1.50": "112",
+     "1.75": "41",
+     ">1.75": "7"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "44",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "44"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    }
+   ]
+  },
+  "7": {
+   "accept": [
+    {
+     "NEM": "7",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "2",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "3",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "4",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "8",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "12",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3630",
+     "Missed": "0",
+     "Big": "0",
+     ".25": "2577",
+     ".50": "982",
+     ".75": "67",
+     "1.0": "4",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "17022",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1827",
+     ".75": "11300",
+     "1.0": "3895",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "733",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "5",
+     "1.25": "544",
+     "1.50": "136",
+     "1.75": "23",
+     ">1.75": "25"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "29",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "29"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "7",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "7"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "5",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "5"
+    }
+   ]
+  },
+  "8": {
+   "accept": [
+    {
+     "NEM": "8",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "3",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "4",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "12",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3682",
+     "Missed": "3",
+     "Big": "0",
+     ".25": "2587",
+     ".50": "1056",
+     ".75": "38",
+     "1.0": "1",
+     "1.25": "1",
+     "1.50": "2",
+     "1.75": "0",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10706",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1256",
+     ".75": "7093",
+     "1.0": "2357",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "395",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "6",
+     "1.25": "279",
+     "1.50": "81",
+     "1.75": "21",
+     ">1.75": "8"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "15",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "15"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "4",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "4"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    }
+   ]
+  },
+  "9": {
+   "accept": [
+    {
+     "NEM": "9",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "5",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "13",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "14",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3734",
+     "Missed": "3",
+     "Big": "0",
+     ".25": "2612",
+     ".50": "1080",
+     ".75": "39",
+     "1.0": "3",
+     "1.25": "0",
+     "1.50": "1",
+     "1.75": "1",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10667",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1332",
+     ".75": "7010",
+     "1.0": "2325",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "421",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "4",
+     "1.25": "320",
+     "1.50": "79",
+     "1.75": "13",
+     ">1.75": "5"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "21",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "21"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    }
+   ]
+  },
+  "10": {
+   "accept": [
+    {
+     "NEM": "10",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "5",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "9",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "13",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "14",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "15",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3777",
+     "Missed": "3",
+     "Big": "0",
+     ".25": "2588",
+     ".50": "1139",
+     ".75": "48",
+     "1.0": "2",
+     "1.25": "1",
+     "1.50": "1",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "17101",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "1",
+     ".50": "2026",
+     ".75": "11253",
+     "1.0": "3821",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "662",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "4",
+     "1.25": "489",
+     "1.50": "124",
+     "1.75": "31",
+     ">1.75": "14"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "20",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "20"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "6"
+    }
+   ]
+  },
+  "11": {
+   "accept": [
+    {
+     "NEM": "11",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "6",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "8",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "12",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "14",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "15",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "16",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3830",
+     "Missed": "2",
+     "Big": "0",
+     ".25": "2647",
+     ".50": "1137",
+     ".75": "42",
+     "1.0": "4",
+     "1.25": "0",
+     "1.50": "1",
+     "1.75": "1",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "17075",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "2152",
+     ".75": "11448",
+     "1.0": "3475",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "680",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "5",
+     "1.25": "520",
+     "1.50": "122",
+     "1.75": "20",
+     ">1.75": "13"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "32",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "32"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "4",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "4"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    }
+   ]
+  },
+  "12": {
+   "accept": [
+    {
+     "NEM": "12",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "7",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "8",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "15",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "16",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3882",
+     "Missed": "0",
+     "Big": "0",
+     ".25": "2699",
+     ".50": "1143",
+     ".75": "38",
+     "1.0": "2",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10722",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "1",
+     ".50": "1527",
+     ".75": "7053",
+     "1.0": "2141",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "376",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "1",
+     "1.25": "271",
+     "1.50": "73",
+     "1.75": "22",
+     ">1.75": "9"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "20",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "20"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "4",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "4"
+    },
+    {
+     "Index": "4",
+     "Frame": "0",
+     "Slot": "4",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "1",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ]
+  },
+  "13": {
+   "accept": [
+    {
+     "NEM": "13",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "9",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "14",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3927",
+     "Missed": "3",
+     "Big": "0",
+     ".25": "2707",
+     ".50": "1168",
+     ".75": "52",
+     "1.0": "0",
+     "1.25": "2",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6417",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "908",
+     ".75": "4339",
+     "1.0": "1170",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "237",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "179",
+     "1.50": "42",
+     "1.75": "13",
+     ">1.75": "3"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "13",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "13"
+    }
+   ]
+  },
+  "14": {
+   "accept": [
+    {
+     "NEM": "14",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "9",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "13",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "15",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "3969",
+     "Missed": "6",
+     "Big": "0",
+     ".25": "2725",
+     ".50": "1201",
+     ".75": "41",
+     "1.0": "2",
+     "1.25": "3",
+     "1.50": "2",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10758",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1541",
+     ".75": "7142",
+     "1.0": "2075",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "341",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "1",
+     "1.25": "251",
+     "1.50": "67",
+     "1.75": "13",
+     ">1.75": "9"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "18",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "18"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    }
+   ]
+  },
+  "15": {
+   "accept": [
+    {
+     "NEM": "15",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "10",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "12",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "14",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "16",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "4016",
+     "Missed": "2",
+     "Big": "0",
+     ".25": "2751",
+     ".50": "1216",
+     ".75": "47",
+     "1.0": "2",
+     "1.25": "1",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "10782",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "2",
+     ".50": "1514",
+     ".75": "7182",
+     "1.0": "2084",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "321",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "2",
+     "1.25": "232",
+     "1.50": "55",
+     "1.75": "18",
+     ">1.75": "14"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "8",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "8"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "8",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "8"
+    }
+   ]
+  },
+  "16": {
+   "accept": [
+    {
+     "NEM": "16",
+     "Num Bytes Tx": "1420726",
+     "Num Bytes Rx": "0"
+    }
+   ],
+   "drop": [
+    {
+     "NEM": "11",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "12",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    },
+    {
+     "NEM": "15",
+     "SINR": "0",
+     "Reg Id": "0",
+     "Dst MAC": "0",
+     "Queue Overflow": "0",
+     "Bad Control": "0",
+     "Bad Spectrum Query": "0",
+     "Flow Control": "0",
+     "Big": "0",
+     "Long": "0",
+     "Freq": "0",
+     "Slot Error": "1420726",
+     "Miss Fragment": "0"
+    }
+   ],
+   "tx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "4064",
+     "Missed": "1",
+     "Big": "0",
+     ".25": "2759",
+     ".50": "1253",
+     ".75": "47",
+     "1.0": "5",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "1"
+    }
+   ],
+   "rx_slots": [
+    {
+     "Index": "0",
+     "Frame": "0",
+     "Slot": "0",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "6495",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "1011",
+     ".75": "4331",
+     "1.0": "1153",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "0"
+    },
+    {
+     "Index": "1",
+     "Frame": "0",
+     "Slot": "1",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "166",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "1",
+     "1.25": "114",
+     "1.50": "36",
+     "1.75": "12",
+     ">1.75": "3"
+    },
+    {
+     "Index": "2",
+     "Frame": "0",
+     "Slot": "2",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "12",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "12"
+    },
+    {
+     "Index": "3",
+     "Frame": "0",
+     "Slot": "3",
+     "Valid": "0",
+     "Missed": "0",
+     "Idle": "0",
+     "Tx": "2",
+     "Long": "0",
+     "Freq": "0",
+     "Lock": "0",
+     ".25": "0",
+     ".50": "0",
+     ".75": "0",
+     "1.0": "0",
+     "1.25": "0",
+     "1.50": "0",
+     "1.75": "0",
+     ">1.75": "2"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,8 @@
+# EMANE validation summary
+
+| Variant | Slots | Clean links PDR | Blocked links PDR | Agreement | SINR drops (B) |
+|---|---|---|---|---|---|
+| part1 | 9 | 99.5 % (84) | n/a (0) | 240/240 | 0 |
+| distance1 | 4 | 98.4 % (20) | 0.1 % (64) | 240/240 | 39,182,660 |
+| allslot0 | 9 | n/a (0) | 0.0 % (84) | 240/240 | 0 |
+
